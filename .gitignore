@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env.local
+.venv/
+backend/model/*
+!backend/model/.gitkeep
+__pycache__/
